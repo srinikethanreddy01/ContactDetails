@@ -152,6 +152,7 @@ module.exports = Contacts;
 - React for a dynamic and responsive user interface.
 - Material UI for modern, prebuilt design components.
 - Axios for handling HTTP requests between frontend and backend.
+- Sorting to order the elements based on any of the Data Fields
 
 ### Database
 - MongoDB for flexible, scalable data storage.
