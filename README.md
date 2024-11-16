@@ -23,6 +23,7 @@ This project is a Full Stack Application that consists of:
 - Editable contact details with real-time updates.
 - User-friendly interface styled with Material UI.
 - Integration with the backend API using Axios.
+- Provided Feature to sort the elements based on any of the Data Fields
 
 ## Project Structure
 
